@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SafeTrack</string>
+    <!-- Removed Mapbox access token as we're now using osmdroid -->
+</resources>
